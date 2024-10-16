@@ -27,7 +27,6 @@ Standardization of Numerical Variables
 	Explain the concept of standardization (z-score normalization).
 	Standardize the numerical columns using the formula: z=x-mu/sigma
 	
-	Show before and after comparisons of the data distributions.
 Conversion of Categorical Data into Dummy Variables
 ●	Objective: To transform categorical variables into a format that can be provided to ML algorithms.
 ●	Steps:
